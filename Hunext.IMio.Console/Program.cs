@@ -383,7 +383,7 @@ namespace Hunext.IMio.ApiProxy
                 IdRisorsa = 0
             };
 
-            // Esegui la richiesta e ottieni il documento
+            // Esegui la richiesta e ottieni il rapportino
             Rapportini documento2 = await Rapportini.GetRapportiniByRequest(dettaglioattivita, intestazioneAutorizzazione);
 
             // Verifica se il rapportino è stato restituito e stampa il risultato
