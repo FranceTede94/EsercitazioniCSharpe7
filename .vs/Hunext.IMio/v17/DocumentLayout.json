@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7185EF44-468B-4984-8ED3-3C4AA9B6D47B}|Hunext.IMio.Console\\Hunext.IMio.Console.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7185EF44-468B-4984-8ED3-3C4AA9B6D47B}|Hunext.IMio.Console\\Hunext.IMio.Console.csproj|solutionrelative:hunext.imio.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\dettagliorapportino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\dettagliorapportino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\dettagliodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\dettagliodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\rapportini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\rapportini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\documenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\documenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\contratti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\contratti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\articoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\articoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\anagrafiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\anagrafiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\informazionidati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\informazionidati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|c:\\users\\f.tedesco\\documents\\hunext.imio.integrations\\hunext.imio.apiproxy\\ditta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824A10AA-5294-4A39-AF2A-CC645F610C4E}|Hunext.IMio.ApiProxy\\Hunext.IMio.ApiProxy.csproj|solutionrelative:hunext.imio.apiproxy\\ditta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ditta.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Ditta.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Ditta.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Ditta.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Ditta.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA2wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:43:30.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InformazioniDati.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\InformazioniDati.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\InformazioniDati.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\InformazioniDati.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\InformazioniDati.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:40:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\HttpClientHelper.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\HttpClientHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:39:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Anagrafiche.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Anagrafiche.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Anagrafiche.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Anagrafiche.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Anagrafiche.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:43:10.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Articoli.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Articoli.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Articoli.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Articoli.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Articoli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:43:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contratti.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Contratti.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Contratti.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Contratti.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Contratti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:43:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Documenti.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Documenti.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Documenti.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Documenti.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Documenti.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:45:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rapportini.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Rapportini.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\Rapportini.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\Rapportini.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\Rapportini.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:46:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DettaglioDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\DettaglioDocumento.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\DettaglioDocumento.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\DettaglioDocumento.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\DettaglioDocumento.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:46:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DettaglioRapportino.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\DettaglioRapportino.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.ApiProxy\\DettaglioRapportino.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.ApiProxy\\DettaglioRapportino.cs",
+              "RelativeToolTip": "Hunext.IMio.ApiProxy\\DettaglioRapportino.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:16:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Hunext.IMio.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\f.tedesco\\Documents\\Hunext.IMio.Integrations\\Hunext.IMio.Console\\Program.cs",
+              "RelativeToolTip": "Hunext.IMio.Console\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwI8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:48:34.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

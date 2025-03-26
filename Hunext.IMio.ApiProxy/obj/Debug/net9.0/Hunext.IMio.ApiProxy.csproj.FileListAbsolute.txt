@@ -1,0 +1,12 @@
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\bin\Debug\net9.0\Hunext.IMio.ApiProxy.deps.json
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\bin\Debug\net9.0\Hunext.IMio.ApiProxy.dll
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\bin\Debug\net9.0\Hunext.IMio.ApiProxy.pdb
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.csproj.AssemblyReference.cache
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.AssemblyInfoInputs.cache
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.AssemblyInfo.cs
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.csproj.CoreCompileInputs.cache
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.dll
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\refint\Hunext.IMio.ApiProxy.dll
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\Hunext.IMio.ApiProxy.pdb
+C:\Users\f.tedesco\Documents\Hunext.IMio.Integrations\Hunext.IMio.ApiProxy\obj\Debug\net9.0\ref\Hunext.IMio.ApiProxy.dll
